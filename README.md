@@ -1,4 +1,4 @@
-# ft_printf - Custom Implementation of printf  
+# ft_printf - Custom Implementation of printf:  
 ![ft_printf Banner](https://github.com/user-attachments/assets/d8457491-83fe-4ce1-b23a-0d7c351fff51)
 *A project to master formatted output in C*  
 
